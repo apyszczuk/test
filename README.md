@@ -32,3 +32,5 @@ New entry 1.2
     1.2.13 Lorem
 
 New entry 1.3
+
+    1.3.1 Lorem
