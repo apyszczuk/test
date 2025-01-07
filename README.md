@@ -25,3 +25,4 @@ New entry 1.2
     1.2.6 Lorem
     1.2.7 Lorem
     1.2.8 Lorem
+    1.2.9 Lorem
