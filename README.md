@@ -143,3 +143,8 @@ Add something
 
 Lorem Ipsum
 Lorem Ipsum
+
+
+
+
+Do not generate main() for static and shared
